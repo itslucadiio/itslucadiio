@@ -41,4 +41,5 @@ print("Hi, I'm \(luca.name). Let's code!")
 - [Traffic Lights in VHDL](https://github.com/itslucadiio/traffic-light-vhdl#README)
 - [Digital Chronometer in VHDL](https://github.com/itslucadiio/digital-chronometer-vhdl#README)
 - [Bridge between tcp and websocket](https://github.com/itslucadiio/ws-tcp-bridge)
+- [Flask Login with User Roles](https://github.com/itslucadiio/flask-login-roles)
 ---
