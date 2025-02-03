@@ -1,32 +1,52 @@
-<h2> Hello, I'm Luca Di Iorio! </h2>
+# Hi, I'm Luca Di Iorio! 👋
 
 [![Linkedin: Luca Di Iorio](https://img.shields.io/badge/-itslucadiio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/luca-di-iorio-casellas-987b041a9/)
 
+Welcome to my GitHub profile! Here, you'll find my latest projects, contributions, and experiments in software engineering and hardware research.
 
-<h3>
-    
-```swift
-​
+## 👨‍💻 About Me
+I am a **Software Engineer** with a strong focus on **R&D for hardware systems**. My expertise includes:
+- **Embedded Systems & Automation**
+- **C++ (Qt), Python, and Bash Scripting**
+- **Networking (UDP, TCP/IP, WebSockets)**
+- **Object-Oriented Programming & Multithreading**
+- **Software Design & Architecture**
+
+## 🛠️ Tech Stack
+- **Programming Languages:** C++, Python, Bash
+- **Frameworks & Libraries:** Qt, Boost, STL
+- **Platforms & Tools:** Linux, Docker, OpenWRT, Raspberry Pi, OpenMediaVault
+- **Networking:** TCP/IP, UDP, WebSockets, REST APIs
+- **Version Control:** Git, GitHub, GitLab
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
 struct Engineer {
-    var name = "Luca Di Iorio"
-    var age = 24
-    var languages = [ "Python", "C++", "Swift", "VHDL", "Assembler" ]
-    var knowledge = [
-        "Industrial Electronics and Automatic Control Engineering",
-        "Software development in Python, C++ and Qt",
-        "After Effects, Photoshop, Final Cut"
-    ]
+    std::string name = "Luca Di Iorio";
+    int age = 24;
+    std::vector<std::string> languages = {"C++", "Python", "Bash"};
+    std::vector<std::string> knowledge = {
+        "Embedded Systems & Automation",
+        "Software Development with Qt & C++",
+        "Networking & Protocols"
+    };
+};
+
+int main() {
+    Engineer luca;
+    std::cout << "Hi, I'm " << luca.name << ". Let's code!" << std::endl;
+    return 0;
 }
-​
-let luca = Engineer()
-print("Hi, I'm \(luca.name). Let's code!")
-​
 ```
-</h3>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## 📫 Get in Touch
+- **LinkedIn:** [Luca Di Iorio](https://www.linkedin.com/in/luca-di-iorio-casellas-987b041a9)
+- **GitHub:** [itslucadiio](https://github.com/itslucadiio)
 
----
+💡 Passionate about **technology, automation, and software development**. Always open to collaborations and new opportunities. Feel free to connect!
 
 ## &#x1f4c8; GitHub Stats
 
@@ -34,11 +54,4 @@ print("Hi, I'm \(luca.name). Let's code!")
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslucadiio" alt="Luca's GitHub Stats" />
 </a>
 
-
-## :floppy_disk: Take a look at some of my projects:
-
-- [Traffic Lights in VHDL](https://github.com/itslucadiio/traffic-light-vhdl#README)
-- [Digital Chronometer in VHDL](https://github.com/itslucadiio/digital-chronometer-vhdl#README)
-- [Bridge between tcp and websocket](https://github.com/itslucadiio/ws-tcp-bridge)
-- [Flask Login with User Roles](https://github.com/itslucadiio/flask-login-roles)
 ---
