@@ -19,7 +19,7 @@ I am a **Software Engineer** with a strong focus on **R&D for hardware systems**
 - **Networking:** TCP/IP, UDP, WebSockets, REST APIs
 - **Version Control:** Git, GitHub, GitLab
 
-##🚀 Featured Code Snippet
+## 🚀 Featured Code Snippet
 ```cpp
 #include <iostream>
 #include <vector>
