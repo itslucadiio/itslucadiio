@@ -10,7 +10,7 @@
 struct Engineer {
     var name = "Luca Di Iorio"
     var age = 24
-    var languages = [ "Python", "Swift", "VHDL", "Assembler" ]
+    var languages = [ "Python", "C++", "Swift", "VHDL", "Assembler" ]
     var knowledge = [
         "Industrial Electronics and Automatic Control Engineering",
         "Software development in Python, C++ and Qt",
