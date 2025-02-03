@@ -1,6 +1,5 @@
 <h2> Hello, I'm Luca Di Iorio! </h2>
 
-[![Twitter: itslucadiio](https://img.shields.io/twitter/follow/itslucadiio?style=social)](https://twitter.com/itslucadiio)
 [![Linkedin: Luca Di Iorio](https://img.shields.io/badge/-itslucadiio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/luca-di-iorio-casellas-987b041a9/)
 
 
@@ -10,12 +9,12 @@
 ​
 struct Engineer {
     var name = "Luca Di Iorio"
-    var age = 20
+    var age = 24
     var languages = [ "Python", "Swift", "VHDL", "Assembler" ]
     var knowledge = [
         "Industrial Electronics and Automatic Control Engineering",
-        "Software development",
-        "Video production"
+        "Software development in Python, C++ and Qt",
+        "After Effects, Photoshop, Final Cut"
     ]
 }
 ​
